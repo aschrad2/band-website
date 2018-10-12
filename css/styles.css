@@ -1,5 +1,9 @@
 .sidebar {
   float: right;
+  border: 2px solid orange;
+  padding: 10px;
+  margin: 40px;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 
 .highlight {
@@ -12,4 +16,5 @@
 
 .band {
   float: right;
+  padding: 50px;
 }
